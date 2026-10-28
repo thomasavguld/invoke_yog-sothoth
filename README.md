@@ -1,16 +1,27 @@
 To invoke YOG-SOTHOTH, right in you CLI, do the following.
 
-Go to: 
-	cd Path/To/Dir
+1. Navigate to directory: 
+			cd Path/To/Dir
 
-Run:
-	chmod +x *.sh
+2. Make all .sh files executable:
+			chmod +x *.sh
 
-Run: 
-	zsh dragon_head.sh
-		(ctrl + c to stop invocation)
-	
- 	zsh dragon_tail.sh to banish Him.
+3. To start invocation, run: 
+			zsh dragon_head.sh
+				(When desired results achieved, and YOG-SOTHOTH has risen, run:
+					 ctrl + c to stop invocation)
+
+4. Madness? 
+   The end of Reality as We know it? 
+   The destruction of the Universe at the hands (tentacles) of The Old Gods?
+
+5. As needed, run:	
+ 			zsh dragon_tail.sh to banish Him.
+
+---
 
 If cursor lost, run:
 	printf '\033[?25h'
+
+---
+
